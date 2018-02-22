@@ -1,2 +1,2 @@
 # RisingDevs
-Online Coing Challenges in Java
+Online Coding Challenges in Java
