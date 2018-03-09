@@ -1,4 +1,4 @@
-package com.risingdevs.ds.list;
+package com.risingdevs.ds.linkedlist.single;
 
 public class LinkedListIntersection {
 
